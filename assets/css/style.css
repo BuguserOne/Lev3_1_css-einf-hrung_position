@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    position: relative;
+}
+
+.img1 {
+    position: absolute;
+    width: 300px;
+    top: 20vh;
+    right: 66vw;
+}
+
+.img2 {
+    position: absolute;
+    width: 300px;
+    top: 20vh;
+    right: 36vw;
+}
+
+.img3 {
+    position: absolute;
+    width: 300px;
+    top: 20vh;
+    right: 6vw;
+}
